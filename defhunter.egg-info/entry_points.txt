@@ -1,0 +1,2 @@
+[console_scripts]
+defhunter = defhunter:main

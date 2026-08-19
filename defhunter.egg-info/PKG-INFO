@@ -1,0 +1,12 @@
+Metadata-Version: 2.4
+Name: defhunter
+Version: 2.0
+Summary: DerdliAsiq Otonom Default Credential ve Zafiyet Avcısı
+Author: DerdliAsiq
+Requires-Dist: paramiko
+Requires-Dist: requests
+Requires-Dist: pymysql
+Requires-Dist: ldap3
+Dynamic: author
+Dynamic: requires-dist
+Dynamic: summary

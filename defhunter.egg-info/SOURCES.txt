@@ -1,0 +1,8 @@
+defhunter.py
+setup.py
+defhunter.egg-info/PKG-INFO
+defhunter.egg-info/SOURCES.txt
+defhunter.egg-info/dependency_links.txt
+defhunter.egg-info/entry_points.txt
+defhunter.egg-info/requires.txt
+defhunter.egg-info/top_level.txt
