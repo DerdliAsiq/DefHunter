@@ -29,7 +29,7 @@ Aracın çalışması için sisteminizde Python 3.x ve çeşitli kütüphaneler 
 
 ```bash
 # Repoyu klonlayın
-git clone [https://github.com/DerdliAsiq/DefHunter.git](https://github.com/DerdliAsiq/DefHunter.git)
+git clone https://github.com/DerdliAsiq/DefHunter.git
 cd DefHunter
 
 # Gerekli bağımlılıklarla birlikte aracı sisteme gömün
